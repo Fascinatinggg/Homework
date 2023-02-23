@@ -16,3 +16,18 @@ while (n <= 0)
     Console.Write("Wrong number, enter a positive value = ");
     n = int.Parse(Console.ReadLine());
 }
+
+if (n % 10 == 1)
+{
+    Console.WriteLine($"{n} программист");
+}
+
+else if (n % 10 == 2 || n % 10 == 3 || n % 10 == 4)
+{
+    Console.WriteLine($"{n} программиста");
+}
+
+else if (n % 10 == 0 || n % 10 == 5 || n % 10 == 6 || n % 10 == 7 || n % 10 == 8 || n % 10 == 9)
+{
+    Console.WriteLine($"{n} программистов");
+}

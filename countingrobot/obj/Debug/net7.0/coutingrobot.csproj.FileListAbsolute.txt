@@ -28,3 +28,18 @@ C:\Users\User\Desktop\Study\Geek Brains\HomeWork\countingrobot\bin\Debug\net7.0\
 C:\Users\User\Desktop\Study\Geek Brains\HomeWork\countingrobot\bin\Debug\net7.0\coutingrobot.pdb
 C:\Users\User\Desktop\Study\Geek Brains\HomeWork\countingrobot\obj\Debug\net7.0\coutingrobot.genruntimeconfig.cache
 C:\Users\User\Desktop\Study\Geek Brains\HomeWork\countingrobot\obj\Debug\net7.0\ref\coutingrobot.dll
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\countingrobot\bin\Debug\net7.0\coutingrobot.exe
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\countingrobot\bin\Debug\net7.0\coutingrobot.deps.json
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\countingrobot\bin\Debug\net7.0\coutingrobot.runtimeconfig.json
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\countingrobot\bin\Debug\net7.0\coutingrobot.dll
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\countingrobot\bin\Debug\net7.0\coutingrobot.pdb
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\countingrobot\obj\Debug\net7.0\coutingrobot.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\countingrobot\obj\Debug\net7.0\coutingrobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\countingrobot\obj\Debug\net7.0\coutingrobot.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\countingrobot\obj\Debug\net7.0\coutingrobot.AssemblyInfo.cs
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\countingrobot\obj\Debug\net7.0\coutingrobot.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\countingrobot\obj\Debug\net7.0\coutingrobot.dll
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\countingrobot\obj\Debug\net7.0\refint\coutingrobot.dll
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\countingrobot\obj\Debug\net7.0\coutingrobot.pdb
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\countingrobot\obj\Debug\net7.0\coutingrobot.genruntimeconfig.cache
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\countingrobot\obj\Debug\net7.0\ref\coutingrobot.dll
