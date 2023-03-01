@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\task#21\obj\Debug\net7.0\task#21.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\task#21\obj\Debug\net7.0\task#21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\task#21\obj\Debug\net7.0\task#21.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\task#21\obj\Debug\net7.0\task#21.AssemblyInfo.cs
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\task#21\obj\Debug\net7.0\task#21.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\task#21\bin\Debug\net7.0\task#21.exe
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\task#21\bin\Debug\net7.0\task#21.deps.json
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\task#21\bin\Debug\net7.0\task#21.runtimeconfig.json
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\task#21\bin\Debug\net7.0\task#21.dll
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\task#21\bin\Debug\net7.0\task#21.pdb
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\task#21\obj\Debug\net7.0\task#21.dll
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\task#21\obj\Debug\net7.0\refint\task#21.dll
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\task#21\obj\Debug\net7.0\task#21.pdb
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\task#21\obj\Debug\net7.0\task#21.genruntimeconfig.cache
+C:\Users\User\Desktop\Study\GeekBrains\HomeWork\task#21\obj\Debug\net7.0\ref\task#21.dll
